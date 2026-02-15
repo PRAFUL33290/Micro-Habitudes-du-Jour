@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Micro-Habitudes du Jour",
-  description: "Génère une micro-habitude par jour pour améliorer votre vie",
+  description: "Génère une micro-habitude par jour pour améliorer ta vie",
 };
 
 export default function RootLayout({

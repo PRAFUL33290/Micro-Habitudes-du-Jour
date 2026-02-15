@@ -22,8 +22,7 @@ export default function HabitCard({ habit, onReset }: HabitCardProps) {
   const handleEmailSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     if (email) {
-      // Here you would normally send to an API/Supabase
-      console.log('Email saved:', email);
+      // TODO: Integrate with email service (e.g., Supabase, SendGrid)
       setEmailSubmitted(true);
       setTimeout(() => {
         alert('Merci ! Tu recevras ta micro-habitude demain 🎉');

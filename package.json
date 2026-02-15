@@ -1,7 +1,7 @@
 {
   "name": "micro-habitudes-du-jour",
   "version": "1.0.0",
-  "description": "",
+  "description": "Application minimaliste Next.js qui génère une micro-habitude personnalisée par jour",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/PRAFUL33290/Micro-Habitudes-du-Jour.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "PRAFUL33290",
   "license": "ISC",
   "type": "module",
   "bugs": {

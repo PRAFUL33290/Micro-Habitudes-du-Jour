@@ -19,7 +19,7 @@ Une application Next.js minimaliste qui génère une micro-habitude personnalis�
 ## 🚀 Installation et lancement
 
 ### Prérequis
-- Node.js 18+ 
+- Node.js 20.9.0+ 
 - npm
 
 ### Installation
